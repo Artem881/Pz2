@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Pz2/Pz2.vcxproj" Id="fbe510db-77bc-416a-a19c-9730b98d04ad" />
+  <Project Path="Pz2Task22/Pz2Task22.vcxproj" Id="cf1d8d94-9931-48c8-966b-1852910f1f71" />
+  <Project Path="Pz2Task23/Pz2Task23.vcxproj" Id="066da4a0-e9ca-4571-95c0-92b826d11667" />
+  <Project Path="Pz2Task24/Pz2Task24.vcxproj" Id="66c1a7b3-f88a-43c2-bd1f-03f26ce73d24" />
+  <Project Path="Pz2Task25v1/Pz2Task25v1.vcxproj" Id="33172a40-9313-4f63-945b-675980096182" />
+</Solution>
